@@ -1,1 +1,1 @@
-123bits.org
+*.123bits.org
